@@ -8,6 +8,7 @@ Our Contributors-
 1-Aviral Katiyar
 2-Atharva Lalit Dudhe
 3-Chitta Sri Sankara Naga Pavana Saketha Ram
-4-Atharv Krishnarao Sawant
-5-Akhilender Bongirwar 
-6-Ayush Gupta
+4-Suthapalli Naga Satya Sridhar
+5-Atharv Krishnarao Sawant
+6-Akhilender Bongirwar 
+7-Ayush Gupta
